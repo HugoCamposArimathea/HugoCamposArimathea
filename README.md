@@ -1,3 +1,5 @@
+<img src="https://github.com/HugoCamposArimathea/HugoCamposArimathea/blob/main/undraw_Developer_activity_re_39tg.svg" alt="Ilustração de Desenvolvedor trabalhando" style="width: 350px;">
+
 # Olá! Eu sou o Hugo Campos 🖐
 
 Olá, sou Desenvolvedor Front-End e sempre um aprendiz! 😀
