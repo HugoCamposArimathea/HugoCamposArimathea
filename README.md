@@ -1,8 +1,8 @@
 <img src="https://github.com/HugoCamposArimathea/HugoCamposArimathea/blob/main/undraw_Developer_activity_re_39tg.svg" alt="Ilustração de Desenvolvedor trabalhando" style="width: 350px; margin: auto;" align="right">
 
-# Olá! Eu sou o Hugo Campos 🖐
+# Olá! Eu sou o Hugo 🖐
 
-Olá, sou <strong>Desenvolvedor Front-End</strong> e sempre um aprendiz! 😀
+Sou <strong>Desenvolvedor Front-End</strong> é sempre um estudante! 😀
 
 ### 💻 Tecnologias que mais utilizo e que estou me especializando:
 <div style="display: inline_block">
@@ -15,10 +15,31 @@ Olá, sou <strong>Desenvolvedor Front-End</strong> e sempre um aprendiz! 😀
 
 ### 🛠 Ferramentas: <strong>VSCode, Notion, Git, GitHub e GIMP</strong>
 
-<hr>
-
 ### 📧 Aqui está alguns canais para você entrar em contato comigo:
 <div>
   <a href = "mailto: hugocamposarimathea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugocamposarimathea" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<hr>
+<br>
+<img src="https://github.com/HugoCamposArimathea/HugoCamposArimathea/blob/main/undraw_Developer_activity_re_39tg.svg" alt="Ilustração de Desenvolvedor trabalhando" style="width: 350px; margin: auto;" align="right">
+
+# Hi! My name is Hugo 🖐
+
+I'm <strong>Front-End Developer</strong> and always a student! 😄
+
+### 💻 Technologies I use the most and I'm specializing:
+<div style="display: inline_block">
+  <img align="center" alt="Logo HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="Logo CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="Logo Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div><br>
+
+[![Hugo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCamposArimathea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🛠 Tools: <strong>VSCode, Notion, Git, GitHub and GIMP</strong>
+
+### 📧 Some ways to contact me:
+<a href = "mailto: hugocamposarimathea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugocamposarimathea" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
