@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Hugo 🖐 <br> <em>Hi! My name is Hugo 🖐</em>
 
-Sou estudante em <strong>Engenharia de Software<strong>, é um prazer ter você aqui! 😄 <br> <em>I'm studying <Software Engineering>, I'm glad to see you here, thanks for coming! 😄</em>
+Sou estudante em <strong>Engenharia de Software<strong>, é um prazer ter você aqui! 😄 <br> <em>I'm studying <strong>Software Engineering<strong>, I'm glad to see you here, thanks for coming! 😄</em>
 
 ### 💻 Tecnologias que mais utilizo e que estou me especializando: <br> <em>💻 Technologies, languages and tools that I use and I'm learning: </em>
 <div style="display: inline_block">
