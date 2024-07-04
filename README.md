@@ -2,9 +2,9 @@
 
 # Olá! Eu sou o Hugo 🖐 <br> <em>Hi! My name is Hugo 🖐</em>
 
-Sou <strong>Engenheiro de Software</strong> e sempre um estudante! 😄 <br> <em>I'm <strong> a Software Engineer</strong> and always in search of wisdom! 😄</em>
+Sou estudante em <strong>Engenharia de Software<strong>, é um prazer ter você aqui! 😄 <br> <em>I'm studying <Software Engineering>, I'm glad to see you here, thanks for coming! 😄</em>
 
-### 💻 Tecnologias que mais utilizo e que estou me especializando: <br> <em>💻 Technologies that I use and specializing: </em>
+### 💻 Tecnologias que mais utilizo e que estou me especializando: <br> <em>💻 Technologies, languages and tools that I use and I'm learning: </em>
 <div style="display: inline_block">
   <img align="center" alt="Logo HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="Logo CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,7 +18,7 @@ Sou <strong>Engenheiro de Software</strong> e sempre um estudante! 😄 <br> <em
 
 ### 🛠 Ferramentas: <strong>VSCode, Notion, Git, GitHub e GIMP</strong> <br> <em>🛠 Tools: <strong>VSCode, Notion, Git, GitHub e GIMP</strong></em>
 
-### 📧 Aqui está alguns canais para você entrar em contato comigo: <br> <em>📧 Below is some ways to contact me:</em>
+### 📧 Aqui está alguns canais para você entrar em contato comigo: <br> <em>📧 Below, there are some ways to contact me:</em>
 <div>
   <a href = "mailto: hugocamposarimathea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugocamposarimathea" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
