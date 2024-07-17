@@ -6,17 +6,12 @@ Sou estudante em <strong>Engenharia de Software<strong>, é um prazer ter você 
 
 ### 💻 Tecnologias que mais utilizo e que estou me especializando: <br> <em>💻 Technologies, languages and tools that I use and I'm learning: </em>
 <div style="display: inline_block">
-  <img align="center" alt="Logo HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="Logo CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Logo Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br>
  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HugoCamposArimathea&show_icons=true&theme=day-yellow&include_all_commits=true&count_private=true&hide_title=true">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCamposArimathea&layout=compact&langs_count=16&theme=day-purple&hide_title=true">
 </div>
-
-
-### 🛠 Ferramentas: <strong>VSCode, Notion, Git, GitHub e GIMP</strong> <br> <em>🛠 Tools: <strong>VSCode, Notion, Git, GitHub e GIMP</strong></em>
 
 ### 📧 Aqui está alguns canais para você entrar em contato comigo: <br> <em>📧 Below, there are some ways to contact me:</em>
 <div>
