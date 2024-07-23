@@ -9,6 +9,7 @@ Sou estudante em <strong>Engenharia de Software<strong>, é um prazer ter você 
   <img align="center" alt="Logo Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Logo Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)">
   <img align="center" alt="Logo GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Logo MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
  
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HugoCamposArimathea&show_icons=true&theme=day-yellow&include_all_commits=true&count_private=true&hide_title=true">
